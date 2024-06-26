@@ -1,0 +1,29 @@
+/* styles.css */
+
+#Rotimi {
+    color: White;
+    background-color: Red;
+}
+
+.subsectionheader {
+    color: Gold;
+    Background-color: Black;
+}
+
+.subsectionpreview {
+    color: Pink;
+    Background-color: Blue;
+}
+
+* {
+    background-color: Brown;
+}
+
+img {
+    height: Auto;
+    Width: 500px;
+}
+
+* {
+    outline: 3px solid White;
+}
